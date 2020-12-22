@@ -1,0 +1,17 @@
+{
+  "name": "etcd-play",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node ./main.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "etcd3": "^1.1.0",
+    "node-etcd": "^7.0.0"
+  }
+}
